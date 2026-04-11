@@ -56,11 +56,11 @@ A powerful all-in-one web platform that provides multiple online tools for devel
 
  ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islammdsohan603&show_icons=true&theme=radical)
+ 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=islammdsohan603)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islammdsohan603&layout=compact)
+ 
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/sohanislamwebdev/

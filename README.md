@@ -1,7 +1,11 @@
- <h1 align="center">Hi 👋, I'm Sohan</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d267951-4c6f-45e2-ab71-7e4133a362c9" alt="Sohan Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sohan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Next.js+Learner;Open+to+Work+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Next.js+Developer;Open+to+Work+🚀">
 </p>
 
 🚀 Frontend Developer (React & Next.js)  
@@ -9,6 +13,9 @@
 📍 Based in Bangladesh  
 
 ---
+
+
+
 
 ## 🧠 What I Do
 - Build responsive web apps using React & Next.js

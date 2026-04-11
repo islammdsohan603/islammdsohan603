@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hey, I'm Sohan
 
-<!--
-**islammdsohan603/islammdsohan603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer (React & Next.js)  
+💡 Passionate about building clean & user-friendly UI  
+📍 Based in Bangladesh  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Build responsive web apps using React & Next.js
+- Work with REST APIs & Firebase
+- Focus on clean UI & performance
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+HTML | CSS | Tailwind | JavaScript | React | Next.js  
+
+### ⚙️ Backend
+Node.js | Express.js  
+
+### 🗄 Database
+MongoDB | Firebase  
+
+---
+
+ ## 🔥 Featured Projects
+
+### 🛠️ Digital Tools Web App
+A powerful all-in-one web platform that provides multiple online tools for developers, designers, and everyday users.
+
+- ⚡ 200+ tools including PDF, Image, SEO & Developer utilities
+- 🖼️ Image compression, conversion & optimization tools
+- 📄 PDF merge, split & document utilities
+- 🔐 Security tools like hash generator & encoder/decoder
+- 🚀 Fast, responsive & user-friendly UI
+- 🔒 Privacy-focused (no data stored)
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript, Netlify  
+
+🔗 Live:  https://digital-tools-web.netlify.app/ 
+💻 Code:  https://github.com/islammdsohan603/-Digital-Tools-Buying-Website?tab=readme-ov-file
+
+ ## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islammdsohan603&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=islammdsohan603)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islammdsohan603&layout=compact)
+
+## 📫 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/sohanislamwebdev/
+- 📧 Email: islammdsohan603@gmail.com

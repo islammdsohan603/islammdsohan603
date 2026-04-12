@@ -83,13 +83,7 @@ A powerful all-in-one web platform for developers & designers.
 🔗 Live: https://digital-tools-web.netlify.app/  
 💻 Code: https://github.com/islammdsohan603/-Digital-Tools-Buying-Website
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=islammdsohan603" />
-</p>
+ 
 
 ---
 

@@ -29,14 +29,6 @@
 
  
 
----
-
-## 🔥 Total Contributions
-<p align="center">
-  <b style="font-size:18px;">🔥 Total Contributions: 135</b>
-</p>
-
----
 
 ## 🧠 What I Do
 - ⚛️ Build responsive web apps using React & Next.js

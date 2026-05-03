@@ -58,22 +58,37 @@
 
 ---
 
-## 🔥 Featured Project
+🐄 QurbaniHat – Animal Booking Platform
+QurbaniHat is a modern Qurbani Animal Marketplace & Booking Platform built with Next.js, Tailwind CSS, MongoDB, and Better Auth. Users can browse animals, view details, create accounts, log in securely, and place booking orders.
 
-### 🛠 Digital Tools Web App
-A powerful all-in-one web platform for developers & designers.
+🚀 Live Demo
+**Live Website: https://my-app-qurbaniweb.vercel.app/
+✨ Features
+🔐 Authentication
+Email & Password Authentication
+Google Social Login
+Better Auth Integration
+Protected Profile Page
+🐄 Animal Marketplace
+View Featured Animals
+Browse All Animals
+Animal Details Page
+Price Sorting (Low → High / High → Low)
+Responsive Grid Layout
+📦 Order System
+Animal Booking Form
+User Information Collection
+MongoDB Order Storage
+Success Toast Notification
+Redirect After Successful Booking
+🎨 Modern UI
+Glassmorphism Design
 
-- ⚡ 200+ online tools
-- 🖼 Image tools (compress, convert, optimize)
-- 📄 PDF tools (merge, split, edit)
-- 🔐 Security tools (hash, encode/decode)
-- 🚀 Fast & responsive UI
-- 🔒 No data stored (privacy first)
+Fully Responsive Layout
 
-**Tech Stack:** React, Tailwind CSS, JavaScript, Netlify
+Smooth Hover Effects
 
-🔗 Live: https://digital-tools-web.netlify.app/  
-💻 Code: https://github.com/islammdsohan603/-Digital-Tools-Buying-Website
+Professional Navbar & Footer
 
  
 

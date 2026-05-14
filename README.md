@@ -65,17 +65,7 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=islammdsohan603&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islammdsohan603&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
+ 
 
 # 🔥 GitHub Streak
 
@@ -106,6 +96,7 @@
 
 ---
 
+ 
 # 🌐 Connect With Me
 
 <p align="center">
@@ -122,7 +113,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://vercel.com">
+<a href="https://vercel.com/islammdsohan603s-projects">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
@@ -130,16 +121,14 @@
 
 ---
 
-# ⚡ Fun Fact
- 
-const sohan = {
-  code: ["JavaScript", "React", "Next.js", "Node.js"],
-  technologies: ["MERN Stack", "Firebase", "MongoDB"],
-  passion: "Building modern and responsive web applications 🚀",
-};
+# 📫 Contact Information
+
+- 📧 Email: islammdsohan603@gmail.com
+- 💻 GitHub: https://github.com/islammdsohan603
+- ▲ Vercel: https://vercel.com/islammdsohan603s-projects
+- 💼 LinkedIn: https://linkedin.com/in/sohanislamwebdev
  
 
----
 
 # 🐍 Contribution Snake
 
@@ -160,4 +149,4 @@ const sohan = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-```
+ 

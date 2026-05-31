@@ -1,15 +1,15 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=SOHAN%20ISLAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20&%20Next.js%20Developer&descAlignY=55&descAlign=50" style="width:100%; max-width:100%;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=SOHAN%20ISLAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20Next.js%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sohan Islam</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | React & Next.js Enthusiast | Building Modern Web Experiences
+🚀 Frontend Developer | React Developer | Next.js Developer | MERN Stack Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Next.js+Developer;MERN+Stack+Developer;Building+Modern+UI%2FUX;Open+to+Work+🚀" style="max-width:100%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Next.js+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Open+to+Work+🚀" />
 </p>
 
 <p align="center">
@@ -28,106 +28,184 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Frontend Developer specializing in **React & Next.js**
-- ⚡ Passionate about building **modern UI/UX**
-- 🎯 Focused on **clean design, performance & responsiveness**
-- 🌱 Currently learning **advanced full-stack development**
-- 🔥 Building real-world projects using modern technologies
+- 💻 Frontend Developer specializing in React & Next.js
+- ⚡ Passionate about building modern and responsive web applications
+- 🎯 Focused on UI/UX, performance optimization, and clean code
+- 🌱 Currently learning Advanced Next.js, Backend Development & System Design
 - 🎓 Completed Full-Stack Web Development Course from Programming Hero
 - 🏫 Computer Technology Student at Polytechnic Institute
-- 🚀 Love solving real-world problems with code
+- 🚀 Interested in Full Stack MERN Development
+- 💡 Love solving real-world problems with code
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vercel,netlify,vscode" style="max-width:100%;" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vercel,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+## 🏥 Doctor Appointment Manager
+
+A full-stack healthcare appointment booking platform where users can browse doctors, book appointments, manage schedules, update bookings, and access a responsive dashboard.
+
+### Features
+
+- Doctor Listing & Details
+- Appointment Booking System
+- Update & Delete Booking
+- Authentication System
+- Dashboard Management
+- Responsive UI
+
+### Tech Stack
+
+`Next.js` `Express.js` `MongoDB` `Tailwind CSS` `DaisyUI` `Better Auth`
+
+🔗 GitHub Repository
+
+https://github.com/islammdsohan603/Doctor_Appointment-_Manager
+
+---
+
+## 📚 Programming Courses Website
+
+An online learning platform that allows users to explore programming courses and improve their development skills through modern educational content.
+
+### Features
+
+- Dynamic Course Pages
+- Modern UI Design
+- Responsive Layout
+- User Friendly Experience
+
+### Tech Stack
+
+`Next.js` `React.js` `MongoDB` `Tailwind CSS`
+
+🔗 GitHub Repository
+
+https://github.com/islammdsohan603/progrmming-curses-website
+
+---
+
+## 🌍 Wanderlust Travel Platform
+
+A modern travel destination management platform where users can discover destinations and explore travel opportunities.
+
+### Features
+
+- Destination Listings
+- Dynamic Details Page
+- CRUD Operations
+- Responsive Design
+
+### Tech Stack
+
+`Next.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+🔗 GitHub Repository
+
+https://github.com/islammdsohan603/travel-projects
+
+---
+
+# 🎯 Current Focus
+
+- Advanced Next.js
+- MERN Stack Development
+- Authentication & Security
+- REST API Development
+- Database Design
+- Problem Solving
+- Clean Architecture
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-
-### 🌍 Wanderlust
-Modern travel booking platform  
-**Tech:** Next.js, MongoDB, Tailwind
-
----
-
-### 🐄 QurbaniHat
-Livestock booking platform  
-**Tech:** Next.js, Better Auth, MongoDB
-
----
-
-### 📰 News App
-Dynamic news platform  
-**Tech:** React, REST API
-
----
-
-### 🎨 AI Image Web
-AI image gallery app  
-**Tech:** Next.js, Tailwind
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islammdsohan603&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islammdsohan603&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islammdsohan603&theme=tokyonight&hide_border=true" style="max-width:100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islammdsohan603&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islammdsohan603&theme=tokyo-night&hide_border=true" style="max-width:100%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islammdsohan603&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=islammdsohan603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=3" style="max-width:100%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=islammdsohan603&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://linkedin.com/in/sohanislamwebdev">LinkedIn</a> • 
-  <a href="mailto:islammdsohan603@gmail.com">Email</a> • 
-  <a href="https://github.com/islammdsohan603">GitHub</a> • 
-  <a href="https://vercel.com/islammdsohan603s-projects">Vercel</a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;" />
+  <a href="https://github.com/islammdsohan603">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+
+  <a href="https://linkedin.com/in/sohanislamwebdev">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+
+  <a href="mailto:islammdsohan603@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" />
+  </a>
 </p>
 
 ---
 
+# 🌍 Portfolio
+
+🔗 https://my-nextjs-protfolio.vercel.app/
+
+---
+
+# 💡 Quote
+
+> "Code. Learn. Build. Improve. Repeat."
+
+---
+
 <p align="center">
-  💙 Thanks for visiting my profile 💙  
-  <br/>
+  💙 Thanks for visiting my profile 💙
+  <br><br>
   🚀 Keep Learning • Keep Building • Keep Growing 🚀
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" style="width:100%; max-width:100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 </p>

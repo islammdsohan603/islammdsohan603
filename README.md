@@ -70,6 +70,7 @@ A full-stack recipe sharing platform where users can discover, publish, and mana
 **Tech Stack:** `Next.js 16` `React 19` `Tailwind CSS v4` `HeroUI` `Radix UI` `Framer Motion` `MongoDB` `Better Auth` `Stripe`
 
 🔗 **Live:** https://recipehub-roan.vercel.app/
+
 🔗 **GitHub:** https://github.com/islammdsohan603/recipe_web_site_client_code
 
 ---
@@ -87,7 +88,9 @@ A full-stack healthcare appointment booking platform where users can browse doct
 - 📱 Fully responsive UI across devices
 
 **Tech Stack:** `Next.js` `Express.js` `MongoDB` `Tailwind CSS` `DaisyUI` `Better Auth`
+
 🔗 **live  :** https://doctor-appointment-dusky-chi.vercel.app/
+
 🔗 **GitHub:** https://github.com/islammdsohan603/Doctor_Appointment-_Manager
 
 ---
@@ -103,7 +106,9 @@ An online learning platform that allows users to explore programming courses and
 - 🧭 User-friendly navigation and browsing experience
 
 **Tech Stack:** `Next.js` `React.js` `MongoDB` `Tailwind CSS`
+
 🔗 **Live:** https://programing-curors.vercel.app/
+
 🔗 **GitHub:** https://github.com/islammdsohan603/progrmming-curses-website
 
 ---

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=SOHAN%20ISLAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20Next.js%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sohan Islam</h1>
+<h1 align="center">Hi 👋, I'm SOHAN</h1>
 
 <h3 align="center">
 🚀 Frontend Developer | React Developer | Next.js Developer | MERN Stack Enthusiast

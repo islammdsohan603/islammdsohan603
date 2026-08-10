@@ -120,11 +120,7 @@ An online learning platform that allows users to explore programming courses and
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islammdsohan603&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islammdsohan603&theme=tokyonight&hide_border=true" />
-</p>
+ 
 
 ## 📈 Contribution Graph
 

@@ -64,7 +64,7 @@ Hello! I'm **Md. Sohan**, a developer from Bangladesh 🇧🇩 passionate about 
 </p>
 
 <p align="center">
-  <strong>UI Libraries & Tools</strong><br/>
+  <strong>  Tools</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git GitHub VS Code Postman Vercel" />
 </p>
 
